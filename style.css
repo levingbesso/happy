@@ -1,0 +1,37 @@
+body{
+    background-color: red;
+}
+
+.hautDePage{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+}
+
+.logos img{
+    height: 50px;
+    width: 50px;
+}
+
+.Plogos img{
+    height: 50px;
+    width:50px;
+}
+
+.boisson img{
+    height:200px;
+    width:200px;
+}
+
+.boisson{
+  width:80%;
+  display:flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-left: 20px;
+  margin-top: 100px;
+}
+
+.pieds{
+    background-color: white;
+}
